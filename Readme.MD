@@ -8,7 +8,7 @@
 
 ### Funcionalidades utilizadas:
 
-- Página de venda responsiva
+- Página Web de venda responsiva
 
 ### Visualização:
 
